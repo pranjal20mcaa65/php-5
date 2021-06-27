@@ -5,7 +5,7 @@
 
 2 question-> 2.php
 
-3 question-> php3.php
+3 question-> 3.php
 
 4 question-> 4.php
 
